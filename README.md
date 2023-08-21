@@ -1,0 +1,2 @@
+# myblogpic
+Pic of myblog
